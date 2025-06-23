@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690263170330",
+    "project_id": "the-wall-f01ec",
+    "storage_bucket": "the-wall-f01ec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690263170330:android:70f0d8c8309a4ea98660a3",
+        "android_client_info": {
+          "package_name": "com.example.the_wall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYTdNS97Cc_e5AK-_n9z-9l-pqU_9lUos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
