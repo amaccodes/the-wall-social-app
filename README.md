@@ -1,16 +1,40 @@
-# the_wall
+# 🧱 the_wall
+A Flutter application.
 
-A new Flutter project.
+## 🚀 Getting Started
+Follow these steps to run the app locally on your machine.
 
-## Getting Started
+### 1. Prerequisites
+Make sure you have the following installed:
+- [Flutter SDK](https://docs.flutter.dev/get-started/install) (latest stable)
+- [Dart SDK](https://dart.dev/get-dart) (comes with Flutter)
+- Xcode (for iOS) or Android Studio (for Android)
+- Git
 
-This project is a starting point for a Flutter application.
+To verify installation:
+flutter doctor
+Resolve any issues before continuing.
 
-A few resources to get you started if this is your first Flutter project:
+### 2. Clone the Repository
+git clone https://github.com/your-username/the_wall.git
+cd the_wall
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 3. Install Dependencies
+flutter pub get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 4. Run the App
+- On iOS Simulator or Android Emulator:
+  flutter run
+- Or run directly on a connected device:
+  flutter devices
+  flutter run -d <device_id>
+
+### 5. (Optional) Build Release Versions
+- Android (APK/AAB):
+  flutter build apk   # or flutter build appbundle
+- iOS:
+  flutter build ios
+
+## 📚 Resources
+- [Flutter Documentation](https://docs.flutter.dev/)  
+- [Dart Language Tour](https://dart.dev/guides/language/language-tour)
