@@ -16,7 +16,7 @@ flutter doctor
 Resolve any issues before continuing.
 
 ### 2. Clone the Repository
-git clone https://github.com/your-username/the_wall.git
+git clone https://github.com/amaccodes/the-wall-social-app.git
 cd the_wall
 
 ### 3. Install Dependencies
